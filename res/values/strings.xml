@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">笔记本</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">NoteBook</string>
+	<string name="activity_main_edittext_search_hint">请输入想要搜索的内容</string>
+	<string name="activity_main_textview_showNoteSum_default">显示笔记的个数</string>
+</resources>

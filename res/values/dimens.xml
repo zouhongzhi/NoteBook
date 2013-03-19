@@ -1,0 +1,11 @@
+<resources>
+	<!-- <for padding> -->
+    <dimen name="dimen_small">5dp</dimen>
+    <dimen name="dimen_medium">10dp</dimen>
+    <dimen name="dimen_large">15dp</dimen>
+   
+    <!-- <for Font Size > -->
+    <dimen name="font_size_small">16sp</dimen>
+    <dimen name="font_size_medium">22sp</dimen>
+    <dimen name="font_size_large">28sp</dimen>
+</resources>
